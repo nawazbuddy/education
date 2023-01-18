@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="pratice.geturl" duration-ms="152613" started-at="2023-01-18T13:12:04 IST" finished-at="2023-01-18T13:14:37 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="152613" started-at="2023-01-18T13:12:04 IST" finished-at="2023-01-18T13:14:37 IST">
+      <class name="pratice.geturl">
+        <test-method status="PASS" signature="crete()[pri:0, instance:pratice.geturl@5abca1e0]" name="crete" duration-ms="152551" started-at="2023-01-18T13:12:04 IST" finished-at="2023-01-18T13:14:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crete -->
+      </class> <!-- pratice.geturl -->
+    </test> <!-- Command line test -->
+  </suite> <!-- pratice.geturl -->
+</testng-results>
